@@ -5,13 +5,13 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Shea Lewis",
-            "email": "shea.lewis89@gmail.com"
+            "name": "Edivaldo Marcos Soares Junior",
+            "email": "jrglaber@hotmail.com"
         }
     ],
     "require": {
         "php": "^7.2",
-        "illuminate/support": "^6.0|^7.0"
+        "illuminate/support": "^6.0|^7.0|^8.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.0"
