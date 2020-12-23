@@ -3,6 +3,7 @@
     "description": "Flash Messages for Laravel",
     "keywords": ["flash", "laravel", "caffeinated"],
     "license": "MIT",
+	"version": "2.0.0",
     "authors": [
         {
             "name": "Edivaldo Marcos Soares Junior",
